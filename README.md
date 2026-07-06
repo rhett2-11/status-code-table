@@ -9,7 +9,5 @@ It's been years since I wrote my last lines of code, and the anxiety started com
 
 I decided to take a break and think through whether web development was really something I wanted to pursue again.
 
-I concluded that I would like to leave my web dev career behind me and pursue more "hands on" work at this point in my life.
-
 
 
